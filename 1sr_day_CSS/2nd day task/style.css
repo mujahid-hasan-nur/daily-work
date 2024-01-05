@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+    color: black;
+}
+.asd2{
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px;
+    padding: 20px 10px;
+    margin: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.asd3{
+    text-align: 0;
+    border: 2px solid black;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px;
+    padding: 20px 10px;
+    margin: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#qwe{
+    color: blue;
+    
+}

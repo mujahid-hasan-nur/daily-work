@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    border: 0;
+    text-align: center;
+    display: block;
+    /* height: 50; */
+}
+.Header{
+    height: 15px;
+    /* background-image: url(add image); */
+    /* background-image: url('../'); */
+    /* background-repeat: no-repeat;
+    background-repeat: repeat-x;
+    background-repeat: repeat-y;
+    background-size: cover;
+    background-size: contain;
+    /* background-size: 200px; */
+} */
+h3{
+    font-size: 30px;
+    text-decoration: overline;
+    font-family: 'Courier New', Courier, monospace;
+    }
+
+.blog{
+    margin: 40px;
+    border: 10px solid tomato;
+    box-shadow: 10px 10px 10px cornflowerblue;
+    } 
+
+.Second{
+    /* display: none; */
+    /* visibility: hidden; */
+    }
+.incident{
+    border: 2px solid cornflowerblue;
+    /* display: block; */
+    margin: 26px;
+    /* display: inline-block; */
+    }
+    li{
+        display: inline-block;
+    }
+    .dolor{
+        border: 2px solid peru;
+        height: 60px;
+        display: inline-block;
+    }
