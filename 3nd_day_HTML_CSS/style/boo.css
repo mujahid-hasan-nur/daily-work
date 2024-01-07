@@ -139,7 +139,35 @@ main section{
 
 /* Resume section styles */
 .resume-column-title{
-    color: #474747;
+    color: black;
     font-size: 30px;
     font-weight: 700;
+    margin-bottom: 10px;
+}
+
+.resume-container{
+    display: flex;
+    gap: 50px;
+}
+
+.resume-item-istitute{
+    margin-bottom: 20px;
+    margin-top: 0px;
+}
+
+/* .resume-item-description{
+    color: #474747;
+} */
+
+.resume-item-description .resume-item-istitute{
+    color: #7575756f6f;
+    font-size: 15px;
+}
+.resume-column{
+    margin: 30px;
+}
+
+.download-cv{
+    text-align: center;
+    margin-top: 50px;
 }
